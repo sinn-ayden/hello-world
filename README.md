@@ -7,8 +7,6 @@
 *italicized text*
 
 > blockquote
->
-> end blockquote?
 
 1. first item
 2. second item
@@ -18,11 +16,10 @@
 - second item
 - third item
 
-'code?'
+`code`
 
-`code?`
-
---- horizontal rule
+---
+horizontal rule
 
 [link](https://github.com)
 
