@@ -19,7 +19,7 @@
 `code`
 
 ---
-horizontal rule
+^ horizontal rule
 
 [link](https://github.com)
 
